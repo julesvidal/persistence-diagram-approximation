@@ -123,6 +123,20 @@ $ make -j 4
 $ sudo make install
 ```
 
+## Fetching the data
+
+Download the compressed archive containing the data, available at this link:
+
+https://nuage.lip6.fr/s/qZpXrbnTbxSnYzq/download
+
+Decompress the archive and move the resulting `data` folder into the
+`persistence-diagram-approximation` folder.
+
+```bash
+$ unzip data.zip
+$ mv data/ persistence-diagram-approximation/
+```
+
 
 ## Reproducing the paper results
 
