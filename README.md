@@ -4,8 +4,8 @@ Fast Approximation of Persistence Diagrams with Guarantees
 This repository contains the proposed implementation described in the publication:
 
 
-Fast Approximation of Persistence Diagrams with Guarantees,
-Jules Vidal and Julien Tierny,
+Fast Approximation of Persistence Diagrams with Guarantees
+Jules Vidal and Julien Tierny
 IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2021
 
 ## Examine the code
