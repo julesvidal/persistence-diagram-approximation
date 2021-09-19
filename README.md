@@ -105,7 +105,7 @@ Then run cmake:
 ```bash
 $ cd ../../
 $ mkdir build && cd build
-& cmake-gui ./src/
+$ cmake-gui ./src/
 ```
 Click "Configure".
 Be sure to select the following option in order to unlock the full performance
