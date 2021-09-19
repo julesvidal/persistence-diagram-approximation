@@ -10,6 +10,8 @@ Jules Vidal and Julien Tierny
 
 IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2021
 
+The paper is available on arxiv: https://arxiv.org/abs/2108.05766
+
 ## Examine the code
 
 The implementation code is based on The Topology ToolKit
